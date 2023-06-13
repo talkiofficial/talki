@@ -1,0 +1,5 @@
+## About The Talki
+Talki aims to build a global community of cross-border learning players, pushing education to a whole new boundary through an intelligent learning platform based on Web3+AIGC. We use learning as a medium to connect billions of learners around the world and break the limits of traditional education. Through a personalized, efficient and intelligent learning experience, we inspire users to learn and help achieve personal development and growth. Talki will drive the digital transformation of the education industry, reshape the future of education, and become the world's largest DAO learning community, serving billions of people for the benefit of all humanity. We believe that everyone is a holder of endless potential, and that through a global learning community, people will realize infinite possibilities. Join Talki, learn hard, and embrace the future!
+
+## Official website
+https://www.talki.org/

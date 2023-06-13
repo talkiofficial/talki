@@ -1,0 +1,25 @@
+{
+  "name": "tal",
+  "version": "0.0.1",
+  "description": "TAL contract for Solidity",
+  "scripts": {
+    "node": "hardhat node",
+    "test": "hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@types/sinon-chai": "^3.2.9",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.15.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "@nomiclabs/hardhat-truffle5": "^2.0.7",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@openzeppelin/contracts": "^4.9.1"
+  }
+}
